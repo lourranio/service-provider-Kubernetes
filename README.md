@@ -3,11 +3,8 @@ The cloud native service provider . Provedores em Cloud de Kubernets
 
 ## https://www.civo.com/
 
-
-<img width=“964” alt=“imagem” src=“”>
-
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/lourranio/service-provider-Kubernetes/blob/930225a99ddfadc9f6c040ac4081396ff1b8837a/img/civo-aYdn13.png" alt="Project logo"></a>
+ <img width=300px height=200px src="https://github.com/lourranio/service-provider-Kubernetes/blob/930225a99ddfadc9f6c040ac4081396ff1b8837a/img/civo-aYdn13.png" alt="Project logo"></a>
 </p>
 
